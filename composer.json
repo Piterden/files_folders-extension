@@ -1,0 +1,9 @@
+{
+    "name": "defr/files_folders-extension",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Defr\\FilesFoldersExtension\\": "src/"
+        }
+    }
+}
